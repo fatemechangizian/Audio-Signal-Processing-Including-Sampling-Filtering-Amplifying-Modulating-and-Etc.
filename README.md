@@ -29,4 +29,5 @@ g) In a new .vi, cut the domain of the signal.
 h) In a new .vi, generate a random signal and add it to the main signal.
 
 i) In a new .vi, filter the signal using high-pass, low-pass and band-pass filters.
+
 j) In a new .vi, modulate the signal with a sinusoidal signal.
